@@ -27,8 +27,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## More Example Tests
 
 ![](docs/_images/coke+cup_3.png)
-![](docs/_images/coke+empltyglass.png)
-![](docs/_images/coke+iphonecoke.png)
-![](docs/_images/coke+iphonecup.png)
+![](docs/_images/coke+cup+empltyglass.png)
+![](docs/_images/coke+cup+iphonecoke.png)
+![](docs/_images/coke+cup+iphonecup.png)
 
 
