@@ -55,3 +55,10 @@ const App = () => {
 
 const rootElement = document.getElementById('root')
 ReactDOM.render(<App />, rootElement)
+
+// TODO: NEED THIS CODE FOR SERVER-SIDE HOSTING
+//app.use(express.static(__dirname)); //here is important thing - no static directory, because all static :)
+
+//app.get("/*", function(req, res) {
+//  res.sendFile(path.join(__dirname, "index.html"));
+//});
