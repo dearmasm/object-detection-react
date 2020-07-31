@@ -8,7 +8,7 @@ Node.js client-side React App that uses **TensorFlow** model generated to recogn
 `git clone` the repo and `cd` into it by running the following command:
 
 ```bash
-git clone https://github.com/cloud-annotations/object-detection-react.git
+git clone https://github.com/dearmasm/object-detection-react.git
 cd object-detection-react
 ```
 
